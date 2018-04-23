@@ -25,6 +25,6 @@ Login admin and return json with token,
 
 and then request /graphql with request head {Authorization：'JWT ' + token}
 
-project will validation token,  if successful, visit baidu.else, return error message
+project will validation token,  if successful, visit /graphql.else, return error message
 
 
