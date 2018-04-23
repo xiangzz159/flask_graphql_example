@@ -1,0 +1,24 @@
+# DO NOT EDIT requirements.txt DIRECTLY OR ADD IT TO VERSION CONTROL
+# It will be overwritten in the install progress
+# Add new packages in requirements.template instead.
+Faker==0.8.13
+Flask==0.12.2
+Flask-Cors==3.0.3
+Flask-DebugToolbar==0.10.1
+Flask-GraphQL==1.4.1
+Flask_HTTPAuth==3.2.3
+Flask-SQLAlchemy==2.3.2
+SQLAlchemy==1.2.6
+graphene==2.1
+graphene-sqlalchemy==2.0.0
+graphql-core==2.0
+graphql-relay==0.4.5
+numpy==1.14.2
+pandas==0.22.0
+six==1.11.0
+urllib3==1.22
+promise==2.1
+PyMySQL==0.8.0
+PyJWT==1.6.1
+jsonify==0.5
+pycryptodome==3.6.1
