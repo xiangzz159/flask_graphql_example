@@ -54,7 +54,7 @@ API接口：
       }
     }}
 
-- 添加交易所账户（保存数据库的时对api_key, secret, uuid, password进行对称加密）::
+- 添加图书::
 
    mutation {
      addBook(name:"活着",author:"余华",price:23,
