@@ -2,7 +2,7 @@
 # It will be overwritten in the install progress
 # Add new packages in requirements.template instead.
 Faker==0.8.13
-Flask==0.12.2
+Flask==1.0.2
 Flask-Cors==3.0.3
 Flask-DebugToolbar==0.10.1
 Flask-GraphQL==1.4.1
@@ -21,4 +21,4 @@ promise==2.1
 PyMySQL==0.8.0
 PyJWT==1.6.1
 jsonify==0.5
-pycryptodome==3.6.1
+pycryptodome==3.6.4
