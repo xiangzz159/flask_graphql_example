@@ -16,7 +16,7 @@ graphql-relay==0.4.5
 numpy==1.14.2
 pandas==0.22.0
 six==1.11.0
-urllib3==1.22
+urllib3==1.24.2
 promise==2.1
 PyMySQL==0.8.0
 PyJWT==1.6.1
