@@ -3,7 +3,7 @@
 # Add new packages in requirements.template instead.
 Faker==0.8.13
 Flask==1.0.2
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-DebugToolbar==0.10.1
 Flask-GraphQL==1.4.1
 Flask_HTTPAuth==3.2.3
